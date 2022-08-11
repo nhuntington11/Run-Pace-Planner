@@ -7,10 +7,14 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Run-Map-Planner/1.0.0": {
+        "dependencies": {
+          "Microsoft.TypeScript.MSBuild": "4.7.4"
+        },
         "runtime": {
           "Run-Map-Planner.dll": {}
         }
-      }
+      },
+      "Microsoft.TypeScript.MSBuild/4.7.4": {}
     }
   },
   "libraries": {
@@ -18,6 +22,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.TypeScript.MSBuild/4.7.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-upap643q2S+DnJrZ77gT2VtazuvC0ps3IIfArKNQdfaQO2CEQ/3hxS1dmOG6VrtVVyageEIsJKNwcGkQmMUwEQ==",
+      "path": "microsoft.typescript.msbuild/4.7.4",
+      "hashPath": "microsoft.typescript.msbuild.4.7.4.nupkg.sha512"
     }
   }
 }

@@ -24,3 +24,4 @@ C:\Users\Nick\OneDrive\Documents\CSharp\.NET_Applications\Run-Map-Planner\obj\De
 C:\Users\Nick\OneDrive\Documents\CSharp\.NET_Applications\Run-Map-Planner\obj\Debug\net6.0\Run-Map-Planner.pdb
 C:\Users\Nick\OneDrive\Documents\CSharp\.NET_Applications\Run-Map-Planner\obj\Debug\net6.0\Run-Map-Planner.genruntimeconfig.cache
 C:\Users\Nick\OneDrive\Documents\CSharp\.NET_Applications\Run-Map-Planner\obj\Debug\net6.0\ref\Run-Map-Planner.dll
+C:\Users\Nick\OneDrive\Documents\CSharp\.NET_Applications\Run-Map-Planner\bin\Debug\net6.0\tsconfig.json
